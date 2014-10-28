@@ -1,4 +1,4 @@
 OOSCSS
 ======
 
-Object Orientes Sass (an extention of OOCSS by Nicole Sullivan)
+Object Oriented Sass (an extention of OOCSS by Nicole Sullivan)
